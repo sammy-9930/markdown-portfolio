@@ -1,2 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
-https://github.com/sammy-9930/markdown-portfolio/pull/3
+ [text](https://example.com)
